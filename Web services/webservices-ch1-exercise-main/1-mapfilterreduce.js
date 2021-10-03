@@ -167,8 +167,8 @@ function exercise10() {
 function exercise11() {
 
   // return the amount of meteor impacts that have a geolocation
-
-  //  return impacts.filter(
+  
+  //return impacts.filter(
 }
 
 function exercise12() {
